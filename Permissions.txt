@@ -1,0 +1,84 @@
+################ DG-GBEP-ITOfficers
+
+Ace type is: 5
+Ace flags is: 2
+Flags is: 1
+Access mask is: 3
+Trustee: MAIN\DG-GBEP-ITOfficers
+Ace Type: Access Allowed
+	Create child objects
+	Delete child objects
+	
+Ace type is: 0
+Ace flags is: 0
+Flags is: 0
+Access mask is: 131135
+Trustee: MAIN\DG-GBEP-ITOfficers
+Ace Type: Access Allowed
+	Read from the security descriptor (not including the SACL)
+	Create child objects
+	Delete child objects
+	List child objects
+	Perform an operation controlled by a validated write access right
+	Read properties
+	Write properties
+	
+Ace type is: 0
+Ace flags is: 2
+Flags is: 0
+Access mask is: 131132
+Trustee: MAIN\DG-GBEP-ITOfficers
+Ace Type: Access Allowed
+	Read from the security descriptor (not including the SACL)
+	List child objects
+	Perform an operation controlled by a validated write access right
+	Read properties
+	Write properties
+
+Ace type is: 5
+Ace flags is: 26
+Flags is: 3
+Access mask is: 48
+Trustee: MAIN\DG-GBEP-ITOfficers
+Ace Type: Access Allowed
+	Read properties
+	Write properties
+
+################ DG-EP-ITOfficers 
+
+Ace type is: 5
+Ace flags is: 2
+Flags is: 1
+Access mask is: 3
+Trustee: MAIN\DG-EP-ITOfficers
+Ace Type: Access Allowed
+	Create child objects
+	Delete child objects
+	
+Ace type is: 0
+Ace flags is: 0
+Flags is: 0
+Access mask is: 131135
+Trustee: MAIN\DG-EP-ITOfficers
+Ace Type: Access Allowed
+	Read from the security descriptor (not including the SACL)
+	Create child objects
+	Delete child objects
+	List child objects
+	Perform an operation controlled by a validated write access right
+	Read properties
+	Write properties
+
+Ace type is: 0
+Ace flags is: 2
+Flags is: 0
+Access mask is: 131132
+Trustee: MAIN\DG-EP-ITOfficers
+Ace Type: Access Allowed
+	Read from the security descriptor (not including the SACL)
+	List child objects
+	Perform an operation controlled by a validated write access right
+	Read properties
+	Write properties
+
+	
